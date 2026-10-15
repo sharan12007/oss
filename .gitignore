@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vite/
+*.egg-info/
+.pytest_cache/
+data/raw/
+data/downloads/
+*.log
